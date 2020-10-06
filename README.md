@@ -1,1 +1,1 @@
-Slack Clone using ReactJs and Firebase
+Slack Clone using ReactJs and Firebase android
